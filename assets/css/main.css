@@ -2427,6 +2427,10 @@
 			border-radius: 8px;
 			display: block;
 		}
+		
+		.image imground {
+			border-radius: 50%;
+		}	
 
 		.image.left, .image.right {
 			max-width: 40%;
