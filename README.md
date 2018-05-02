@@ -1,1 +1,1 @@
-# effectivegivingdesign.github.io
+# effectivegiving.github.io
