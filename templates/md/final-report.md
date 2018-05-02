@@ -9,7 +9,7 @@ subtitle: A platform for simpler, more impactful philanthropy
 - Mia Gancayco: _Ideation, Research, Writing_  
 - Michael Zuo:  _Development, Research, Writing_
 
-[Learn more about our team](./about.md).
+[Learn more about our team](about.html).
 
 
 ## Problem and Solution Overview
@@ -25,25 +25,25 @@ We decided to conduct interviews and contextual inquiries with potential users f
 - Identifying barriers to regular effective giving
 - Identifying barriers to collaboration and discussion in the effective giving process
 
-[Our contextual inquiry plan](./plan.md) describes our stakeholders and participants and their significance in our design research.
+[Our contextual inquiry plan](plan.html) describes our stakeholders and participants and their significance in our design research.
 
 ### Results and Themes
 
-[The results section our our contextual inquiry review](./cireview.md#contextual-inquiry-results-from-participants) outlines the results we obtained from our design research, specifically our key findings and more detailed data from each participant. 
+[The results section our our contextual inquiry review](ci-review.html#contextual-inquiry-results-from-participants) outlines the results we obtained from our design research, specifically our key findings and more detailed data from each participant. 
 
-[The themes and processes section](./cireview.md#design-research-themes-and-processes) outlines the themes that emerged in our design research and our process of arriving at those themes from the data gathered from our participants. 
+[The themes and processes section](ci-review.html#design-research-themes-and-processes) outlines the themes that emerged in our design research and our process of arriving at those themes from the data gathered from our participants. 
 
 ## Task Analysis
 
-[The task analysis section](./cireview.md#task-analysis-questions) details our analysis of user tasks, consisting of our answers to questions that shaped our understanding of what tasks are integral to our design goal and the specific tasks we chose to focus on.
+[The task analysis section](ci-review.html#task-analysis-questions) details our analysis of user tasks, consisting of our answers to questions that shaped our understanding of what tasks are integral to our design goal and the specific tasks we chose to focus on.
 
 ## Proposed Design Sketches
 
-[Details of our three initial design sketches](./projectdesigncheckin.md#design-1), each in the context of four integral user tasks. [Our design review](./designreview.md) covers our choice of design and the two specific tasks we chose to pursue. 
+[Details of our three initial design sketches](design-checkin.html#design-1), each in the context of four integral user tasks. [Our design review](design-review.html) covers our choice of design and the two specific tasks we chose to pursue. 
 
 ## Written Scenarios and Storyboards
 
-This [storyboard "Learning about effective charities"](./designreview.md#storyboard-1-task---learning-about-effective-charities), along with its relevant written scenario, covers the first of our chosen tasks: learning to give effectively.
+This [storyboard "Learning about effective charities"](design-review.html#storyboard-1-task---learning-about-effective-charities), along with its relevant written scenario, covers the first of our chosen tasks: learning to give effectively.
 
-This [storyboard "Giving effectively without sacrificing too much convenience"](./designreview.md#storyboard-2-task---giving-effectively-without-sacrificing-too-much-convenience), along with its relevant written scenario, covers the second of our chosen tasks: giving effectively without sacrificing too much convenience.
+This [storyboard "Giving effectively without sacrificing too much convenience"](design-review.html#storyboard-2-task---giving-effectively-without-sacrificing-too-much-convenience), along with its relevant written scenario, covers the second of our chosen tasks: giving effectively without sacrificing too much convenience.
 

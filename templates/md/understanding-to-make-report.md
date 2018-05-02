@@ -9,7 +9,7 @@ subtitle: A platform for simpler, more impactful philanthropy
 - Mia Gancayco: _Ideation, Research, Writing_  
 - Michael Zuo:  _Development, Research, Writing_
 
-[Learn more about our team](./about.md).
+[Learn more about our team](about.html).
 
 ## Problem and Solution Overview
 
@@ -17,7 +17,7 @@ Most of us want to help others and do good. It’s the reason why we donate to c
 
 ## Initial Paper Prototype
 
-Our initial paper prototype was the version we used in [our first set of heuristic evaluations](/heurevals/).
+Our initial paper prototype was the version we used in [our first set of heuristic evaluations](heuristic-evaluations.html).
 
 This version of the prototype is intended to support the two major tasks of learning about effective charities, and giving effectively without sacrificing convenience.
 
@@ -72,7 +72,7 @@ For our digital mockups, we used the final version of our paper prototype and di
 
 In our final paper prototype, we incorporated changes that we found were necessary through heuristic evaluation and user testing. As before, the main tasks our paper prototype supports are learning about effective charities, and giving effectively without sacrificing convenience.
 
-An overview of our final paper prototype is available at [our paper prototype page](/paperprototype/). In this document, we highlight the changes made to our design as a result of testing.
+An overview of our final paper prototype is available at [our paper prototype page](paper-prototype.html). In this document, we highlight the changes made to our design as a result of testing.
 
 ![](/img/File_007.jpeg)
 
@@ -102,7 +102,7 @@ We included a screen, reachable from the notification generated when a monthly p
 
 Our digital mockup was based on our final paper prototype and incorporates the changes made to our initial paper prototype during the course of testing, as well as incorporating aspects which are made more feasible by the digital nature of this prototype over the paper prototypes.
 
-An overview of our digital mockup is available at [our digital mockup page](/digital-mockup/). In this document, we detail only critical aspects of the design as well as changes made by switching from paper to Balsamiq, a digital tool.
+An overview of our digital mockup is available at [our digital mockup page](digital-mockup.html). In this document, we detail only critical aspects of the design as well as changes made by switching from paper to Balsamiq, a digital tool.
 
 ![](/img/search-char-top.png)
 
@@ -144,7 +144,7 @@ We think we could have used more iterations on our design. One thing that we thi
 
 Here are relevant links to materials involved in our testing:
 
-- [Final paper prototype](/paperprototype)
-- [Heuristic evaluation](/heurevals)
-- [Usability Testing Review](/use-testing-review/)
+- [Final paper prototype](paper-prototype.html)
+- [Heuristic evaluation](heuristic-evaluations.html)
+- [Usability Testing Review](use-testing-review.html)
 
