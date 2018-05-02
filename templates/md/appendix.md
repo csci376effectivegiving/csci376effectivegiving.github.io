@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Appendix
-subtitle: Stuff that isn't marketing fluff.
+subtitle: Project deliverables
 ---
 
-## About out team
+## About our team
 
-- [Members](about.html)
 - [Team Policy](team-contract.html)
 
 ## Project proposal

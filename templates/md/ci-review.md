@@ -23,7 +23,7 @@ We attended the Effective Altruism general and board meetings on Sunday, 25 Febr
 
 
 ## **DESIGN RESEARCH THEMES AND PROCESSES:**
-![Affinity diagram](/img/affinity.png)
+![Affinity diagram](/img/affinity.png)  
 
 _High-level Themes:_
 
