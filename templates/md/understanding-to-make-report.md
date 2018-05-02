@@ -6,7 +6,7 @@ subtitle: A platform for simpler, more impactful philanthropy
 ## Team
 
 - Tiffany Zheng:  _Graphic Design, Prototyping, Research, Writing_ 
-- Mia Gancayco: _Ideation, Research, Writing_  
+- Mia Gancayco: _Ideation, Research, Writing_ \
 - Michael Zuo:  _Development, Research, Writing_
 
 [Learn more about our team](about.html).
@@ -21,17 +21,17 @@ Our initial paper prototype was the version we used in [our first set of heurist
 
 This version of the prototype is intended to support the two major tasks of learning about effective charities, and giving effectively without sacrificing convenience.
 
-![](/img/pphomepage.jpeg)  
+![](/img/pphomepage.jpeg) \
 
 ### Task 1: Learning about effective charities
 
 When the user starts the app, they are presented with the home page, showing topics of interests such as top charities, the causes the user cares about, and her donations. She wants to find out more about a specific charity, Red Cross, that sparked her interest.
 
-![](/img/ppsearch1.jpeg)  
+![](/img/ppsearch1.jpeg) \
 
 The home page is scrollable, and in this version the user can scroll to the bottom of the page to find the search bar, where they can enter terms to search for more information.
 
-![](/img/ppredcrossmain.jpeg)  
+![](/img/ppredcrossmain.jpeg) \
 
 On entering a particular charity name, such as "Red Cross" into the search bar, and pressing on the magnifying glass to perform the search, the user is directed to a charity profile page for the specified charity, if it is found. In this version of our paper prototype, our charity profiles are very abstract, and contain only headings and fake text placeholders representing a general overview of the charity (Red Cross), including a summary of the charity, its past achievements and milestones, its current goals and objectives, its performance and metrics (as released by organizations that typically assess the effectiveness of charities such as CharityWatch and GiveWell), and resources for the user to learn more such as a link to the charity's website and social media platforms.
 
@@ -39,15 +39,15 @@ If the user clicks on the Effective Giving logo at the top, she will be brought 
 
 ### Task 2: Giving effectively without sacrificing too much convenience
 
-![](/img/pphfhmain.jpeg)  
+![](/img/pphfhmain.jpeg) \
 
 For users who have already done their research and are interested in donating to a specific charity, the user can find their preferred charity, in this case Habitat for Humanity, by the process above.
 
-![](/img/ppdonate2.jpeg)  
+![](/img/ppdonate2.jpeg) \
 
 A Donate button is placed at the bottom of the charity information page. In our initial paper prototype, the donate button is placed at the very bottom, so that there's nothing else on page after it for the user to look at.
 
-![](/img/pppaymentinfo1.jpeg)  
+![](/img/pppaymentinfo1.jpeg) \
 
 On clicking the donate button, the user is directed to a page where she can input her payment information in order to make her donation, which consists of basic credit card information such as the user's billing address, the cardholder name, the number, CVV, and expiry date of the card. Each of these text fields contain "placeholder" or greyed-out labels that inform the user what information to enter. The labels within the text field disappear when the user clicks on it to type. The user then specifies how much money she wants to donate by entering a numerical value in the text field labeled "Donation Amount". There is also an option below where she can choose to make the donation a monthly recurring payment, so her credit card would then be processed for the donation amount that she specifies on a monthly basis. If the user does not check this box, the donation will be a one-time payment of the amount specified.
 
@@ -74,7 +74,7 @@ In our final paper prototype, we incorporated changes that we found were necessa
 
 An overview of our final paper prototype is available at [our paper prototype page](paper-prototype.html). In this document, we highlight the changes made to our design as a result of testing.
 
-![](/img/File_007.jpeg)  
+![](/img/File_007.jpeg) \
 
 We relabelled our category of "top charities" to "top effective charities", based on feedback that it was unclear the sense in which the charities listed in that section were "top". We believe this label more accurately conveys the idea that these charities are displayed because they are considered the most effective charities we have information about by some metric.
 
@@ -82,19 +82,19 @@ Since the home page is scrollable, we found that users had difficulty finding th
 
 In addition, we added a blinder to our testing procedure to block out the bottom sections of long page so that users would not see content which would not actually be in the viewport of the app.
 
-![](/img/ppredcrossmainfinal.JPG)  
+![](/img/ppredcrossmainfinal.JPG) \
 
 During user testing, we decided to added real text to our charity profile pages. We found that users were less able to engage with the informational pages when there was no real information, so testing was more information when the user had actual text to read. In addition, we added image placeholders to break up text on the observation that walls of text would put users off.
 
-![](/img/ppdonate2final.JPG)  
+![](/img/ppdonate2final.JPG) \
 
 We moved the Donate button above the contact information for the charity on charity information pages, as one of our users assumed that the contact information represented the end of the article and did not consider scrolling further. This user had considerable difficulty finding the donate button, as they expected to find it closer to the content of the page.
 
-![](/img/File_000.jpeg)  
+![](/img/File_000.jpeg) \
 
 On the donation confirmation page, we added a Done button to return to the home page, so that the user is not trapped after completing a donation. In addition, we added back buttons throughout the paper prototype to give the user a consistent way to backing out an action.
 
-![](/img/File_005.jpeg)  
+![](/img/File_005.jpeg) \
 
 We included a screen, reachable from the notification generated when a monthly payment is processed, which details the donation made and the user's settings for further donations to the selected charity. This screen provides a link intended to allow the user to change/cancel their donation settings, amount, frequency, etc..
 
@@ -104,7 +104,7 @@ Our digital mockup was based on our final paper prototype and incorporates the c
 
 An overview of our digital mockup is available at [our digital mockup page](digital-mockup.html). In this document, we detail only critical aspects of the design as well as changes made by switching from paper to Balsamiq, a digital tool.
 
-![](/img/search-char-top.png)  
+![](/img/search-char-top.png) \
 
 Throughout our app, our digital mockup provides a more consistent user interface, with back buttons and a drop-down menu of sections available on every page.
 
@@ -112,21 +112,21 @@ On our home page, we added a link to a "Quick Start Guide", immediately offering
 
 As before, our two primary tasks of interest are learning about effective charities, and giving effectively without sacrificing convenience. Our digital prototype is fully linked to support performing these two tasks.
 
-![](/img/red-cross-top-prof.png)  
+![](/img/red-cross-top-prof.png) \
 
 On our charity profiles, as in our final paper prototype, unlike our initial paper prototypes, we included actual text describing the charity in question instead of placeholder squiggles. In addition, since the digital format makes image reproduction a lot easier than on drawing on paper, we are able to include images as well instead of placeholders of image to break up the text and hopefully engage the user in reading it a bit more.
 
-![](/img/red-cross-bott-profile.png)  
+![](/img/red-cross-bott-profile.png) \
 
 As in our final paper prototype, the Donate button is now placed just before the contact information for the charity. In our digital prototype, we make buttons stand out from surrounding text by filling them with colour background. In the case of the Donate button in particular, the button is red, as opposed to blue on most buttons in our design, to signify its special importance.
 
-![](/img/payment-info.png)  
+![](/img/payment-info.png) \
 
 The user is directed from the donate button to input payment information. On this page, we include a toggle allowing the user to have payment information stored by our service to facilitate making donations to multiple charities without having to repeated enter payment information.
 
 The option to make monthly recurring donations remains a critical element of our design, which serves our second major goal of giving effectively without sacrificing convenience by allowing a user to make donations on a recurring basis without additional ongoing effort.
 
-![](/img/Habitatnavbar.png)  
+![](/img/Habitatnavbar.png) \
 
 For expert users, the dropdown allows jumping directly to the donate section to avoid rereading content about a charity they are already familiar with. It is an explicit design decision not to place the Donate button at the top of the page, where the user may click it immediately, because allowing the user to ignore the charity assessment without active intent runs counter to our first goal of learning about effective charities.
 

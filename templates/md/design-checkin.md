@@ -24,7 +24,7 @@ Erica is a junior in college and doesn’t have a steady income stream besides a
 
 ## Design 1:
 
-![Tiffany's web platform](/img/tiffanysketch.jpeg)  
+![Tiffany's web platform](/img/tiffanysketch.jpeg) \
 
 **Main Idea:** A web platform that is primarily focused on delivering content about effective giving to users and has greater capabilities for directing users to external web resources to connect with charities or gain more information. This format allows for a large database of information to be readily accessible. Users have a centralized location where they can find and learn about effective charities based on factors of their choosing such as their interests or location, gain awareness about relevant current events, conduct research on effective giving with the wide range of articles, advice, and forums accessible through the website, participate in online discussions and discover relevant events they may be interested in attending.
 
@@ -37,7 +37,7 @@ Erica is a junior in college and doesn’t have a steady income stream besides a
 
 ## Design 2:
 
-![Michael web platform](/img/michaelsketch.jpeg)  
+![Michael web platform](/img/michaelsketch.jpeg) \
 
 **Main Idea:** a web portal with two primary components; one aspect focuses on the logistics of doing a donation, while the other half centers around community engagement. On the logistics side, we provide two primary services: information on charities, primarily statements of purposes and logistical details; we can show a small list of "featured" charities by default, which may range from random to general recommendations to tailored to the user's advertising profile, depending on how far we feel is appropriate to go with data collection; and donation facilitation. On the community engagement side, we may operate a sort of forum or discussion board that mixes general discussions with listings for work requests and/or meetings and the like.
 
@@ -49,10 +49,10 @@ Erica is a junior in college and doesn’t have a steady income stream besides a
 
 ## Design 3:
 
-![Mia's Fig 1](/img/miafig1.jpeg)  
+![Mia's Fig 1](/img/miafig1.jpeg) \
 _Fig 1. From left, home screen/dashboard, my donations page, my causes page_
 
-![Mia's Fig 2](/img/miafig2.jpeg)  
+![Mia's Fig 2](/img/miafig2.jpeg) \
 _Fig. 2 From left, notifications page, social/altruistic network page, more info and FAQ page_
 
 **Main Idea:** This is a mobile application interface for our tasks that has an emphasis on creating a personalized experience for users. Having the platform on a mobile device would make it more convenient for users to integrate effective giving in their daily lives. The motivating idea behind the above design is to create a dashboard that allows users to take action on a regular basis. The goal is to provide actionable steps that users can take to give effectively while weaving in information about how they can have the most impact along the way. The theories behind effective altruism can be overwhelmingly complex, so providing a mobile app that encourages users to learn by doing seems like the best place to start. 

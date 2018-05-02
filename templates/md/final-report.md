@@ -6,7 +6,7 @@ subtitle: A platform for simpler, more impactful philanthropy
 ## Team
 
 - Tiffany Zheng:  _Graphic Design, Prototyping, Research, Writing_ 
-- Mia Gancayco: _Ideation, Research, Writing_  
+- Mia Gancayco: _Ideation, Research, Writing_ \
 - Michael Zuo:  _Development, Research, Writing_
 
 [Learn more about our team](about.html).
