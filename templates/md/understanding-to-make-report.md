@@ -74,7 +74,7 @@ In our final paper prototype, we incorporated changes that we found were necessa
 
 An overview of our final paper prototype is available at [our paper prototype page](paper-prototype.html). In this document, we highlight the changes made to our design as a result of testing.
 
-![](/img/File_007.jpeg) \
+![](/img/File_007.png) \
 
 We relabelled our category of "top charities" to "top effective charities", based on feedback that it was unclear the sense in which the charities listed in that section were "top". We believe this label more accurately conveys the idea that these charities are displayed because they are considered the most effective charities we have information about by some metric.
 
@@ -90,11 +90,11 @@ During user testing, we decided to added real text to our charity profile pages.
 
 We moved the Donate button above the contact information for the charity on charity information pages, as one of our users assumed that the contact information represented the end of the article and did not consider scrolling further. This user had considerable difficulty finding the donate button, as they expected to find it closer to the content of the page.
 
-![](/img/File_000.jpeg) \
+![](/img/File_000.png) \
 
 On the donation confirmation page, we added a Done button to return to the home page, so that the user is not trapped after completing a donation. In addition, we added back buttons throughout the paper prototype to give the user a consistent way to backing out an action.
 
-![](/img/File_005.jpeg) \
+![](/img/File_005.png) \
 
 We included a screen, reachable from the notification generated when a monthly payment is processed, which details the donation made and the user's settings for further donations to the selected charity. This screen provides a link intended to allow the user to change/cancel their donation settings, amount, frequency, etc..
 

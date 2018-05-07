@@ -7,44 +7,44 @@ title: Usability Test Checkin
 
 ### Identified Issues
 #### Issue: Move the search bar on the home page from the bottom to the top \
-Heuristic Violated: Consistency and standards
-Severity: 1
+Heuristic Violated: Consistency and standards  
+Severity: 1  
 Revision: Search bar moved from top to bottom \
 
 ![Search Bar](/img/File_0011.jpeg) \
 
 #### Issue: Add a distinct back button so that users can return to previous screen
-Heuristic Violated: User Control
-Severity: 2
+Heuristic Violated: User Control  
+Severity: 2  
 Revision: Back and forward button added to the top left corner of every screen
 ![Back button](/img/File_007.jpeg) \
 
 #### Issue: Top Charities too vague of a name
-Heuristic Violated: Documentation
-Severity: 2
+Heuristic Violated: Documentation  
+Severity: 2  
 Revision: “Top Charities” Categories title was changed to “Top Effective Charities”. Our goal is to have users understand that we are promoting charities that have high-impact per donation dollar.
 ![Top Effective Charities](/img/File_004.jpeg) \
 
 #### Issue: Credit card information storing option
-Heuristic Violated: Efficiency of use
-Severity: 3
+Heuristic Violated: Efficiency of use  
+Severity: 3  
 Revision: A remember credit card information check box was included at the top of the payment screen.
 ![Store Credit Card Info](/img/File_002.jpeg) \
 
 #### Issue: Being able to retroactively change donation patterns for charities \
-Heuristic Violated: Recover from errors
-Severity: 3
+Heuristic Violated: Recover from errors  
+Severity: 3  
 Revision: Users can view their donation transaction history from the my donations page. When looking at a monthly recurring donation, users can click on the manage donation settings and adjust the donation pattern moving forward.
 ![Manage Donation Settings](/img/File_005.jpeg) \
 
 #### Issue: Donate button at bottom of charity page, forcing user to scroll through information
-Heuristic violated: Efficiency of use
-Severity: 2
+Heuristic violated: Efficiency of use  
+Severity: 2  
 Revision: We did not implement a revision in regard to this issue. The goal of the Effective Giving app is to encourage our users to read and learn about a charity before they make any decisions, which is why we have our users to scroll through the information before they can see the donate button. As a result, we do not think convenience should take precedence in this design choice.
 
 #### Issue: Done button for payment confirmation
-Heuristic violated: Control
-Severity: 1
+Heuristic violated: Control  
+Severity: 1  
 Revision: We decided to add a done button on the confirmation screen so that the user could have a greater sense of control.
 The done button would also provide the option of going back to the home screen of the app.
 ![Done button](/img/File_000.jpeg) \
@@ -59,7 +59,7 @@ This is incident has both positive and negative aspects. On the one hand, the fa
 
 On the other hand the goal of our design was to encourage users to take the time to learn about charities, weigh their options, and then make a decision. The fact that our user did do so may be a result of a faulty test design, rather than the result of a failed design overall. For example, because the prototype did not contain any real text or information, the participant did not have any content to explore in making their donation decision. Our participant also knew that the number of screens we could show her was limited going into the experiment. This knowledge most likely contributed to the quick decision time.
 
-### Checking info in notification easy
+### Checking info in notification was easy
 Our user opted to make a monthly recurring donation. When we simulated our app bringing up a notification that her monthly recurring donation was successful, our user was able to quickly figure out how to view details of her donations and manage donation configuration settings.
 ![Checking notification](/img/File_0066.jpeg) \
 

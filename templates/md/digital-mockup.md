@@ -43,7 +43,7 @@ The user can scroll to the bottom of the charity profile page to the donate butt
 
 The user is then directed to a page where she can input her payment information in order to make her donation. The user then specifies how much money she wants to donate in the “Donation Amount” text field. She can also choose to make the donation a monthly recurring payment. If the user does not check this box, the donation will be a one-time payment.
 
-The user can clicks on the “Continue” button at the bottom of the payment information page to proceed with her donation. If she clicks on the “Cancel” button instead, she will be brought back to the previous screen she was on, which was the charity profile for Habitat for Humanity.
+The user can click on the “Continue” button at the bottom of the payment information page to proceed with her donation. If she clicks on the “Cancel” button instead, she will be brought back to the previous screen she was on, which was the charity profile for Habitat for Humanity.
 
 ![Payment Info](/img/payment-info.png) \
 
@@ -61,3 +61,9 @@ The features of our digital mockup do not stray far from our final paper prototy
 
 We decided to retain the other features of our final paper prototype as we transitioned into the digital mockup because we felt that the paper representation already resembled what we envisioned our mobile app to look like so most of the designs were sufficient and clear enough to transfer.
 
+Photo Sources:  
+[Red Cross Logo](http://logo-sign.com/tag/red-cross-logo/)  
+[Red Cross Workers](https://midsouthredcross.wordpress.com/2013/02/13/mid-south-red-cross-participates-in-sea-of-blue-to-honor-fallen-police-officer-martoiya-lang/)  
+[Red Cross Workers in Haiti](https://www.telesurtv.net/english/news/US-Red-Cross-Spent-25-Of-Haiti-Donations-on-Itself-Report-20160618-0018.html)  
+[Habitat For Humanity Logo](https://en.wikipedia.org/wiki/Habitat_for_Humanity)  
+[Habitat For Humanity Workers](https://www.lifewithgracebook.com/habitat-for-humanity-house-building.html)  
