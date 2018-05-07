@@ -61,7 +61,12 @@ The features of our digital mockup do not stray far from our final paper prototy
 
 We decided to retain the other features of our final paper prototype as we transitioned into the digital mockup because we felt that the paper representation already resembled what we envisioned our mobile app to look like so most of the designs were sufficient and clear enough to transfer.
 
-Photo Sources:  
+### Interactive Demo
+
+An interactive PDF copy of our mockups [is available here](hci2018effectivegiving-2.pdf).
+
+### Photo Sources:
+
 [Red Cross Logo](http://logo-sign.com/tag/red-cross-logo/)  
 [Red Cross Workers](https://midsouthredcross.wordpress.com/2013/02/13/mid-south-red-cross-participates-in-sea-of-blue-to-honor-fallen-police-officer-martoiya-lang/)  
 [Red Cross Workers in Haiti](https://www.telesurtv.net/english/news/US-Red-Cross-Spent-25-Of-Haiti-Donations-on-Itself-Report-20160618-0018.html)  
