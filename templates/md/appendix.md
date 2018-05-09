@@ -8,9 +8,10 @@ subtitle: Project deliverables
 
 - [Team Policy](team-contract.html)
 
-## Project proposal
+## Project Proposal
 
-- [Proposal](project-proposal.html)
+- [Original Proposal](project-proposal.html)
+- [Project Ideation](project-ideation.html)
 
 ## Contextual Inquiry
 
@@ -36,3 +37,4 @@ subtitle: Project deliverables
 - [Usability Test Review](use-testing-review.html)
 - [Digital Mockup](digital-mockup.html)
 - [Final Report](understanding-to-make-report.html)
+- [Presentation](Understanding to Make Final presentation.pdf)

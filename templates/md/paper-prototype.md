@@ -10,10 +10,10 @@ Our mobile app prototype walks users through the tasks of 1)learning about effec
 
 ## Task 1: Learning about effective charities
 
-![Homepage](/img/pphomepagefinal.JPG) \
+![Homepage](/img/pphomepagefinal.jpeg) \
 The user opens the app and the homepage/dashboard is displayed with topics of interests such as top charities, the causes the user cares about, and her donations. She wants to find out more about a specific charity, Red Cross, that sparked her interest.
 
-![Search first page](/img/File_007.jpeg) \
+![Search first page](/img/File_007.png) \
 The home page is scrollable. The user goes to the top of the page where the search bar is to get more information.
 
 ![Search second page](/img/search-charities.jpeg) \
@@ -47,13 +47,13 @@ The user taps on the box to make the donation a monthly recurring payment.
 ![Payment info fourth page](/img/pppaymentinfo3.JPG) \
 The user then clicks on the "Continue" button at the bottom of the payment information page to proceed with her donation. If she clicks on the "Cancel" button instead, she will be brought back to the previous screen she was on, which was the charity profile for Habitat for Humanity.
 
-![Payment Confirmation Page](/img/File_000.jpeg) \
+![Payment Confirmation Page](/img/File_000.png) \
 If the user's credit card information is processed successfullly, she will be brought to a payment confirmation page. The user can then click on the Effective Giving logo to return to the home screen/dashboard. If the payment information was not processed successfully, a popup message stating this error will appear and the user will remain on the payment information screen.
 
 ![Notification](/img/ppnotification.JPG) \
 Every month, if the user's credit card is processed successfully for the donation amount specified to a certain charity, she will receive a notification on her phone from the app stating this.
 
-![Donation details page](/img/File_005.jpeg) \
+![Donation details page](/img/File_005.png) \
 
 If the user clicks on the notification, she is taken to a screen that shows all details regarding her donation as well as an option to manage
 any configuration settings. For example, the user can opt to no longer have the donation be monthly-recurring.

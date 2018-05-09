@@ -8,9 +8,12 @@ We conducted three usability tests and reviewed our paper prototype according to
 # Usability Test 1
 
 Our participant was a freshman at Williams. She is a devout Christian who regularly attends Sunday Mass at a local Christian Bible Church. Her profile fits that of the local churchgoer demographic that our design targets. The test was performed in Room 129 Schapiro during the evening. We chose this location because it would be free from distractions. For the test, we assigned one person to take notes, one person to simulate the app, and one to videotape the process. We introduced the usability test to the participant by providing a) a description of what Effective Giving project is and what our goals are, b) a short description of the tasks we wanted her to perform (learning about effective charities, and choosing one to donate to) and c) a brief overview of how everything worked. In regard to part c, we explained what each of us would be doing while the participant would be exploring the app (videoing, simulating the app, taking notes), encouraged her to think out loud, and made it clear that we were testing the design, not her.
+
 ## Critical Incidents
+
 ### Participant was quickly able to choose a charity and make a donation
-This is incident has both positive and negative aspects. On the one hand, the fact that our user could quickly click through and figure out how to use the app indicated that our design was intuitive and easy-to-use. Our participant remarked at the end that the design was “straightforward”.
+
+This incident has both positive and negative aspects. On the one hand, the fact that our user could quickly click through and figure out how to use the app indicated that our design was intuitive and easy-to-use. Our participant remarked at the end that the design was “straightforward”.
 
 On the other hand the goal of our design was to encourage users to take the time to learn about charities, weigh their options, and then make a decision. The fact that our user did do so may be a result of a faulty test design, rather than the result of a failed design overall. For example, because the prototype did not contain any real text or information, the participant did not have any content to explore in making their donation decision. Our participant also knew that the number of screens we could show her was limited going into the experiment. This knowledge most likely contributed to the quick decision time. We revised our paper prototype accordingly for the next two usability tests by replacing the squiggly lines in our charity profiles with actual content about the charities so that we could gather more insight on how much time users spend reading the content.
 
