@@ -17,11 +17,11 @@ This incident has both positive and negative aspects. On the one hand, the fact 
 
 On the other hand the goal of our design was to encourage users to take the time to learn about charities, weigh their options, and then make a decision. The fact that our user did do so may be a result of a faulty test design, rather than the result of a failed design overall. For example, because the prototype did not contain any real text or information, the participant did not have any content to explore in making their donation decision. Our participant also knew that the number of screens we could show her was limited going into the experiment. This knowledge most likely contributed to the quick decision time. We revised our paper prototype accordingly for the next two usability tests by replacing the squiggly lines in our charity profiles with actual content about the charities so that we could gather more insight on how much time users spend reading the content.
 
-![Add content](/img/contentadded.jpeg)  \
+![Add content](img/contentadded.jpeg)  \
 
 ### Checking info in notification was easy
 Our user opted to make a monthly recurring donation. When we simulated our app bringing up a notification that her monthly recurring donation was successful, our user was able to quickly figure out how to view details of her donations and manage donation configuration settings.
-![Checking notification](/img/notifconfirm.jpeg) \
+![Checking notification](img/notifconfirm.jpeg) \
 
 # Usability Test 2
 Our second usability test participant was a male undergraduate student at Williams. We chose him as a participant because of his quantitative background, and we believed his decision-making process would be similar to that of effective altruists. The usability test was conducted in the morning at Tunnel City Coffee. In contrast to the setting of our previous test, we wanted to observe how our design would perform in a more natural, relaxed environment with greater distractions. Only two of our members were able to make it to the test, and as a result, we decided to not videotape this test. Instead, before the test, two of our team acted as moderators, and during the test, one of us acted as a computer, and the other as a notetaker. The debriefing process was the same as our last test.
@@ -31,16 +31,16 @@ Our second usability test participant was a male undergraduate student at Willia
 ### Difficulty finding the donate button
 After reading about different charities, our participant chose to donate to one of them. Unfortunately, because the donate button was located at the bottom of the screen and because our participant did not scroll down far enough, our participant was unable to figure out how to donate. Instead, our participant went to the “My Donations” section at the homescreen, and, ultimately, was unable to find out how to donate by the end of the test. In order to both encourage users to read about a charity and to ensure that donate button is still found, we can revise our prototype by moving the donate button up above the contact info in a charity profile. The button is still at the bottom of the page so users won’t prematurely choose to donate, but the revision will make it the button more discoverable.
 
-![Donate Button Location](/img/donatemoved.jpeg)  \
+![Donate Button Location](img/donatemoved.jpeg)  \
 
 ### Comparing similar charities side by side
 After reading a charity profile, our participant indicated that he would like the ability to read about similar charities, preferably side by side comparisons of major statistics and facts, in order to compare his options. While such functionality is beyond the scope of our paper prototype, the comment shed light on more complex features we can provide in order to further facilitate the decision making process for donors.
-![Habitat Home Page](/img/pphfhmainfinal.JPG)  \
+![Habitat Home Page](img/pphfhmainfinal.JPG)  \
 
 ### Link to a structured guide on how to make effective donation
 While our user found the list of top charities as a good way to start the charity learning process, he commented that he would prefer to have a more structured way to approach investigating his charity options. One solution could to provide a link on the home screen of our app to a short guide to inform our users on how to approach the donation decision-making process. Providing a structured process that our users can start from could make the donation process more enjoyable overall.
 
-![Help Guide](/img/helpguide.jpeg)  \
+![Help Guide](img/helpguide.jpeg)  \
 
 
 # Usability Test 3
@@ -55,25 +55,25 @@ We introduced our project, Effective Giving, to the user with a brief descriptio
 
 The user commented that they liked the display of charity-related information above the donate button, such that the user would be required to scroll through the charity information before making a donation. It is good that we decided to keep this feature despite previous considerations to move it to the top. 
 
-![Location of donate button](/img/ppdonate1final.jpeg) \
+![Location of donate button](img/ppdonate1final.jpeg) \
 
 ### Charity descriptions too long and/or text-heavy
 
 User noted losing attention while reading blocks of text as descriptions of charity. Suggested a "tl;dr" version, or the incorporation of pictures into the flow of the text. We revised our paper prototypes accordingly and added placeholders for images in our charity profiles.
 
-![Add pics](/img/picsadded.jpeg)  \
+![Add pics](img/picsadded.jpeg)  \
 
 ### App as a source of reading material about charities
 
 After reading two articles on charities, the user wanted to continue reading articles about another charity. We stopped because we had no more charity descriptions prepared. We figured this is a problem we would run into given the scope of our paper prototype. However, we feel that the two profiles we currently have are enough to assess usability of our app in terms of our two vital tasks that we ask users to perform. We decided to stick with the profiles we have because a generic charity profile page for all our charities would not give us much additional insight, and adding profiles for each charity shown on our homepage is impractical:
 
-![Home page](/img/pphomepagefinal.jpeg) \
+![Home page](img/pphomepagefinal.jpeg) \
 
 ### Explicit marking of donation type
 
 User commented that she liked the explicit marking of one-time vs. monthly recurrent donations, and specifically chose to make the donation as a single-time event, rather than as a monthly recurring donation. Although this runs counter to our goal of increasing convenience, this suggests the existence of users who would rather have manual control over their payments.
 
-![Monthly Recurring Payments](/img/pppaymentinfo1.jpeg) \
+![Monthly Recurring Payments](img/pppaymentinfo1.jpeg) \
 
 # Final Paper Prototype
 

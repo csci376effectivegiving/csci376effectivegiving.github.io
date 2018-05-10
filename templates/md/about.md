@@ -11,12 +11,12 @@ We're working on [improving people's ability to give to charity effectively](htt
 
 ### Mia Gancayco
 
-[![Mia Gancayco](/img/mia-headshot-copy1.png)](https://miagancayco.github.io/)
+[![Mia Gancayco](img/mia-headshot-copy1.png)](https://miagancayco.github.io/)
 
 ### Tiffany Zheng
 
-[![Tiffany Zheng](/img/mypic.jpeg)](https://qianwenzheng.github.io/)
+[![Tiffany Zheng](img/mypic.jpeg)](https://qianwenzheng.github.io/)
 
 ### Michael Zuo
 
-[![Michael Zuo](/img/1453511_10200248250129170_1735098140_n.jpg)](https://muhmuhten.github.io/junkyll/)
+[![Michael Zuo](img/1453511_10200248250129170_1735098140_n.jpg)](https://muhmuhten.github.io/junkyll/)
